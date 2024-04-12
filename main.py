@@ -1,3 +1,4 @@
+# Код создан на основе гайда от Winderton - https://www.youtube.com/watch?v=jcsG-IlJ-SA&list=WL&index=6&ab_channel=Winderton
 from flask import Flask, render_template
 import redis
 import psycopg2
