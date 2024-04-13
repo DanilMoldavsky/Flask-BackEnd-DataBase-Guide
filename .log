@@ -1,0 +1,106 @@
+13-04-2024 14:01:50 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:01:50 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:01:50 -  * Restarting with stat
+13-04-2024 14:01:51 -  * Debugger is active!
+13-04-2024 14:01:51 -  * Debugger PIN: 115-924-775
+13-04-2024 14:01:59 - 127.0.0.1 - - [13/Apr/2024 14:01:59] "GET /countries HTTP/1.1" 200 -
+13-04-2024 14:02:16 - 127.0.0.1 - - [13/Apr/2024 14:02:16] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:02:16 - 127.0.0.1 - - [13/Apr/2024 14:02:16] "[33mGET /script.js HTTP/1.1[0m" 404 -
+13-04-2024 14:02:16 - 127.0.0.1 - - [13/Apr/2024 14:02:16] "[33mGET /script.js HTTP/1.1[0m" 404 -
+13-04-2024 14:02:16 - 127.0.0.1 - - [13/Apr/2024 14:02:16] "GET /static/css/stylegpt.css HTTP/1.1" 200 -
+13-04-2024 14:03:06 - 127.0.0.1 - - [13/Apr/2024 14:03:06] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:03:08 - 127.0.0.1 - - [13/Apr/2024 14:03:08] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:03:08 - 127.0.0.1 - - [13/Apr/2024 14:03:08] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:03:08 - 127.0.0.1 - - [13/Apr/2024 14:03:08] "[33mGET /script.js HTTP/1.1[0m" 404 -
+13-04-2024 14:03:35 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:03:35 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:03:35 -  * Restarting with stat
+13-04-2024 14:03:37 -  * Debugger is active!
+13-04-2024 14:03:37 -  * Debugger PIN: 115-924-775
+13-04-2024 14:03:41 - 127.0.0.1 - - [13/Apr/2024 14:03:41] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:03:41 - 127.0.0.1 - - [13/Apr/2024 14:03:41] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:03:41 - 127.0.0.1 - - [13/Apr/2024 14:03:41] "GET /static/js/script.js HTTP/1.1" 200 -
+13-04-2024 14:03:41 - 127.0.0.1 - - [13/Apr/2024 14:03:41] "GET /static/js/script.js HTTP/1.1" 200 -
+13-04-2024 14:03:48 - 127.0.0.1 - - [13/Apr/2024 14:03:48] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 14:05:45 - 127.0.0.1 - - [13/Apr/2024 14:05:45] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 14:25:02 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:25:02 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:25:02 -  * Restarting with stat
+13-04-2024 14:25:04 -  * Debugger is active!
+13-04-2024 14:25:04 -  * Debugger PIN: 115-924-775
+13-04-2024 14:25:08 - 127.0.0.1 - - [13/Apr/2024 14:25:08] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:25:09 - 127.0.0.1 - - [13/Apr/2024 14:25:09] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:25:09 - 127.0.0.1 - - [13/Apr/2024 14:25:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:25:09 - 127.0.0.1 - - [13/Apr/2024 14:25:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:25:24 - 127.0.0.1 - - [13/Apr/2024 14:25:24] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+13-04-2024 14:26:16 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:26:16 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:26:16 -  * Restarting with stat
+13-04-2024 14:26:19 -  * Debugger is active!
+13-04-2024 14:26:19 -  * Debugger PIN: 115-924-775
+13-04-2024 14:26:22 - 127.0.0.1 - - [13/Apr/2024 14:26:22] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:26:22 - 127.0.0.1 - - [13/Apr/2024 14:26:22] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:26:22 - 127.0.0.1 - - [13/Apr/2024 14:26:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:26:22 - 127.0.0.1 - - [13/Apr/2024 14:26:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:26:26 - 127.0.0.1 - - [13/Apr/2024 14:26:26] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:26:26 - 127.0.0.1 - - [13/Apr/2024 14:26:26] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:26:26 - 127.0.0.1 - - [13/Apr/2024 14:26:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:26:26 - 127.0.0.1 - - [13/Apr/2024 14:26:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:28:03 - 127.0.0.1 - - [13/Apr/2024 14:28:03] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+13-04-2024 14:28:27 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:28:27 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:28:27 -  * Restarting with stat
+13-04-2024 14:28:30 -  * Debugger is active!
+13-04-2024 14:28:30 -  * Debugger PIN: 115-924-775
+13-04-2024 14:28:32 - 127.0.0.1 - - [13/Apr/2024 14:28:32] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:28:33 - 127.0.0.1 - - [13/Apr/2024 14:28:33] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:28:33 - 127.0.0.1 - - [13/Apr/2024 14:28:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:28:33 - 127.0.0.1 - - [13/Apr/2024 14:28:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:29:44 - 127.0.0.1 - - [13/Apr/2024 14:29:44] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+13-04-2024 14:33:42 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:33:42 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:33:42 -  * Restarting with stat
+13-04-2024 14:33:45 -  * Debugger is active!
+13-04-2024 14:33:45 -  * Debugger PIN: 115-924-775
+13-04-2024 14:33:45 - 127.0.0.1 - - [13/Apr/2024 14:33:45] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:33:45 - 127.0.0.1 - - [13/Apr/2024 14:33:45] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:33:45 - 127.0.0.1 - - [13/Apr/2024 14:33:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:34:00 - 127.0.0.1 - - [13/Apr/2024 14:34:00] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+13-04-2024 14:34:58 -  * Detected change in 'E:\\OSPanel\\domains\\flask\\wndrtn\\gpt.py', reloading
+13-04-2024 14:34:59 -  * Restarting with stat
+13-04-2024 14:35:02 -  * Debugger is active!
+13-04-2024 14:35:02 -  * Debugger PIN: 115-924-775
+13-04-2024 14:35:10 - 127.0.0.1 - - [13/Apr/2024 14:35:10] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:35:10 - 127.0.0.1 - - [13/Apr/2024 14:35:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:35:10 - 127.0.0.1 - - [13/Apr/2024 14:35:10] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:35:28 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.107:5000
+13-04-2024 14:35:28 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:35:28 -  * Restarting with stat
+13-04-2024 14:35:30 -  * Debugger is active!
+13-04-2024 14:35:30 -  * Debugger PIN: 115-924-775
+13-04-2024 14:35:48 - 127.0.0.1 - - [13/Apr/2024 14:35:48] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:35:48 - 127.0.0.1 - - [13/Apr/2024 14:35:48] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 14:35:48 - 127.0.0.1 - - [13/Apr/2024 14:35:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 14:36:06 - 127.0.0.1 - - [13/Apr/2024 14:36:06] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 14:36:50 - 127.0.0.1 - - [13/Apr/2024 14:36:50] "POST /send_message HTTP/1.1" 200 -
