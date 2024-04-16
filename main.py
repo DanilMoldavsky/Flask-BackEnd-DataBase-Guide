@@ -50,7 +50,7 @@ def gpt():
 @app.route('/send_message', methods=['POST'])
 def send_message():
     data = request.json
-    user_message = data['message']
+    user_message = 'Отвечай с форматированием языка html, а не markdown, пожалуйста' + data['message']
     
     response_from_gpt = gpt_respose.talk_valid_markdown(prompts=user_message)
     # Здесь вы будете обрабатывать сообщение с помощью ChatGPT
@@ -100,7 +100,7 @@ def countries_api():
 
 if __name__ == '__main__':
     logging.basicConfig(
-        level=logging.ERROR,
+        level=logging.INFO,
         filename=".log",
         filemode="a",
         format="%(asctime)s - %(message)s", # - %(levelname)s - %(name)s -

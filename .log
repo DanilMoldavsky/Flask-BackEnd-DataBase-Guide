@@ -104,3 +104,59 @@
 13-04-2024 14:35:48 - 127.0.0.1 - - [13/Apr/2024 14:35:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
 13-04-2024 14:36:06 - 127.0.0.1 - - [13/Apr/2024 14:36:06] "POST /send_message HTTP/1.1" 200 -
 13-04-2024 14:36:50 - 127.0.0.1 - - [13/Apr/2024 14:36:50] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 14:45:43 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+13-04-2024 14:45:43 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:45:43 -  * Restarting with stat
+13-04-2024 14:45:46 -  * Debugger is active!
+13-04-2024 14:45:46 -  * Debugger PIN: 110-481-256
+13-04-2024 14:46:57 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+13-04-2024 14:46:57 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:46:57 -  * Restarting with stat
+13-04-2024 14:47:00 -  * Debugger is active!
+13-04-2024 14:47:00 -  * Debugger PIN: 110-481-256
+13-04-2024 14:47:36 - 127.0.0.1 - - [13/Apr/2024 14:47:36] "GET / HTTP/1.1" 200 -
+13-04-2024 14:47:36 - 127.0.0.1 - - [13/Apr/2024 14:47:36] "GET /static/css/style.css HTTP/1.1" 200 -
+13-04-2024 14:47:36 - 127.0.0.1 - - [13/Apr/2024 14:47:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+13-04-2024 14:47:45 - 127.0.0.1 - - [13/Apr/2024 14:47:45] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 14:47:45 - 127.0.0.1 - - [13/Apr/2024 14:47:45] "GET /static/css/stylegpt.css HTTP/1.1" 200 -
+13-04-2024 14:47:45 - 127.0.0.1 - - [13/Apr/2024 14:47:45] "GET /static/js/script.js HTTP/1.1" 200 -
+13-04-2024 14:47:45 - 127.0.0.1 - - [13/Apr/2024 14:47:45] "GET /static/js/script.js HTTP/1.1" 200 -
+13-04-2024 14:48:01 - 127.0.0.1 - - [13/Apr/2024 14:48:01] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 14:53:12 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+13-04-2024 14:53:12 - [33mPress CTRL+C to quit[0m
+13-04-2024 14:53:12 -  * Restarting with stat
+13-04-2024 14:53:14 -  * Debugger is active!
+13-04-2024 14:53:14 -  * Debugger PIN: 110-481-256
+13-04-2024 16:43:09 - 127.0.0.1 - - [13/Apr/2024 16:43:09] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 16:43:09 - 127.0.0.1 - - [13/Apr/2024 16:43:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 16:43:09 - 127.0.0.1 - - [13/Apr/2024 16:43:09] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 16:43:09 - 127.0.0.1 - - [13/Apr/2024 16:43:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 16:44:44 - 127.0.0.1 - - [13/Apr/2024 16:44:44] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 21:30:52 - 127.0.0.1 - - [13/Apr/2024 21:30:52] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 21:30:52 - 127.0.0.1 - - [13/Apr/2024 21:30:52] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 21:30:52 - 127.0.0.1 - - [13/Apr/2024 21:30:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 21:30:52 - 127.0.0.1 - - [13/Apr/2024 21:30:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 21:32:36 - 127.0.0.1 - - [13/Apr/2024 21:32:36] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 23:38:33 - 127.0.0.1 - - [13/Apr/2024 23:38:33] "POST /send_message HTTP/1.1" 200 -
+13-04-2024 23:41:00 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+13-04-2024 23:41:00 - [33mPress CTRL+C to quit[0m
+13-04-2024 23:41:00 -  * Restarting with stat
+13-04-2024 23:41:02 -  * Debugger is active!
+13-04-2024 23:41:02 -  * Debugger PIN: 110-481-256
+13-04-2024 23:41:10 - 127.0.0.1 - - [13/Apr/2024 23:41:10] "GET /gpt HTTP/1.1" 200 -
+13-04-2024 23:41:10 - 127.0.0.1 - - [13/Apr/2024 23:41:10] "[36mGET /static/css/stylegpt.css HTTP/1.1[0m" 304 -
+13-04-2024 23:41:10 - 127.0.0.1 - - [13/Apr/2024 23:41:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 23:41:10 - 127.0.0.1 - - [13/Apr/2024 23:41:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+13-04-2024 23:41:52 - 127.0.0.1 - - [13/Apr/2024 23:41:52] "POST /send_message HTTP/1.1" 200 -
